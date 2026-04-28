@@ -43,7 +43,7 @@ El equipo electronico se compone de una Raspberry Pi Zero 2 y la placa PCB SQCv1
      - Si se presiona 1 vez, se enciende la pantalla y el led
      - Si se presiona 3 veces seguidas, el sistema toma una foto
      - Si se mantiene por 3 segundos el equipo cambia entre modo WIFI o AP
-     - Si se mantiene por 10segundos o mas, el equipo se reinicia.
+     - Si se mantiene por 10 segundos o mas, el equipo se reinicia.
         
   
 
